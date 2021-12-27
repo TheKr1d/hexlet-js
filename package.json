@@ -1,0 +1,20 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "My first project (O_0)",
+  "main": "index.js",
+  "tupe": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheKr1d/hexlet-js.git"
+  },
+  "author": "TheKr1d",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheKr1d/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/TheKr1d/hexlet-js#readme"
+}
