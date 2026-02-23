@@ -1,3 +1,3 @@
-import _ from "lodash";
+import hello from "./src/index";
 
-console.log(_.last(["one", "two"]));
+hello();
